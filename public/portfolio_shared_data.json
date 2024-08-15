@@ -1,17 +1,12 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Constantini Mbangue Lobe",
+      "titles": [ "Data Scientist", "Machine Learning Engineer", "Data Analyst","LLM/Python Lecturer " ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "www.linkedin.com/in/constantini-yiphta-734585201",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
@@ -19,50 +14,84 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "class": "devicon-python-plain",
+          "name": "Python"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter Notebook"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "class": "devicon-azuresqldatabase-plain",
+          "name": "SQL"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "class": "devicon-pandas-plain",
+          "name": "Pandas"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+            "name": "Numpy",
+            "class": "devicon-numpy-plain",
+            "level": "80"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "class": "devicon-matplotlib-plain",
+          "name": "Matplotlib"
+        },
+  
+        
+        {
+          "class": "devicon-scikitlearn-plain",
+          "name": "Scikit Learn"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "class": "devicon-tensorflow-original",
+          "name": "Tensorflow"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "class": "devicon-pytorch-plain",
+          "name": "PyTorch"
+        },
+       
+        {
+          "class": "devicon-docker-plain",
+          "name": "docker"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        }
+          "class": "devicon-streamlit-plain",
+          "name": "Streamlit"
+        },
+        {
+          "class": "devicon-bash-plain",
+          "name": "Bash"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "Github"
+        },
+          {
+            "class": "devicon-azuredevops-plain",
+            "name": "Azuredevops"
+          },
+          {
+           
+            "class": "devicon-vuejs-plain",
+            "name": "Vuejs"
+            
+        },
+        {
+            
+            "class": "devicon-angular-plain",
+            "name": "Angular"
+            
+        },
+        {
+          
+          "class": "devicon-react-original",
+          "name": "React"
+          
+      }
+        
       ]
-    }
   }
+}
